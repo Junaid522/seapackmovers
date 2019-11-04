@@ -25,7 +25,7 @@ SECRET_KEY = 'zw402np-7lxsj38v1vqj1nv_=339(4p(kttax@^pd364b41^cj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['seapackmovers.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'seapackmovers.herokuapp.com',]
 
 
 # Application definition
